@@ -60,3 +60,10 @@ This project helps monitor and optimize AWS cloud costs by using two Lambda func
 - Verified email in AWS SES
 
 
+## Cost Anomaly Alerts (Email Proof)
+
+### 1. CostAnomalyDetector.py Alert Screenshot
+![Anomaly Alert](screenshots/Cost-Anomaly-alert.png)
+
+### 2. cost-alerts.py Email Screenshot
+![Cost Alert Email](screenshots/Cost-alert-email.png)
