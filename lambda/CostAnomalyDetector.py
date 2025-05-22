@@ -1,3 +1,9 @@
+# Filename: CostAnomalyDetector.py
+# Author: Bhavani
+# Description: AWS Lambda function to detect cost anomalies using Cost Explorer
+# Created: 2025-05-22
+# Updated: 2025-05-22
+
 import boto3
 import json
 from datetime import datetime, timedelta
